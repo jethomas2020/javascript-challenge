@@ -27,9 +27,11 @@ UFO Sightings- Level 1: Automatic Table and Date Search
 
     Created a basic HTML web page using the index.html file provided.
 
-    Using the UFO dataset provided in the form of an array of JavaScript objects, wrote code that appends a table to our web page
-    and then adds new rows of data for each UFO sighting.
-        Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
+    Using the UFO dataset provided in the form of an array of JavaScript objects, wrote code that appends a table 
+    to our web page and then adds new rows of data for each UFO sighting.
+    
+    There is a column for date/time, city, state, country, shape, and comment. 
 
-    Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
+    Used a date form in our HTML document and wrote JavaScript code that will listen for events and search through 
+    the date/time column to find rows that match user input.
 
