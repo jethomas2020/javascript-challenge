@@ -35,6 +35,9 @@ UFO Sightings- Level 1: Automatic Table and Date Search
     Used a date form in our HTML document and wrote JavaScript code that will listen for events and search through 
     the date/time column to find rows that match user input.
     
+    The user will enter the date they are interested in to search for UFO sightings and click the "Filter Table" 
+    button, and the results will display. 
+    
 ----------------------
     
    Level 2: Multiple Search Categories 
@@ -47,6 +50,8 @@ UFO Sightings- Level 1: Automatic Table and Date Search
         state
         country
         shape
+        
+    Again, the user will enter the criteria details listed above, and the results will display. 
 
 ---------------
 
