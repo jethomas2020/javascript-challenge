@@ -51,7 +51,8 @@ UFO Sightings- Level 1: Automatic Table and Date Search
         state
         country
         shape
-        
+    This search will utilize the index2.html file.
+    
     Again, the user will enter the criteria details listed above, and click the "Filter Table" 
     button, and any results will display. the results will display. By refreshing the page, 
     the entire data is  once again available for the user to search.
