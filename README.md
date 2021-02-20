@@ -52,7 +52,7 @@ UFO Sightings- Level 1: Automatic Table and Date Search
         country
         shape
     
-    This search will utilize the index2.html file within the UFO-Level-2 Folder. 
+    This Level 2 search will utilize the index2.html file within the UFO-Level-2 Folder. 
     
     Again, the user will enter the criteria details listed above, and click the "Filter Table" 
     button, and any results will display. the results will display. By refreshing the page, 
