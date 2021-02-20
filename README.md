@@ -22,7 +22,7 @@ Our Task
     This will be the main script to run for analysis.
 
    
-
+-------------------
 UFO Sightings- Level 1: Automatic Table and Date Search 
 
     Created a basic HTML web page using the index.html file provided.
@@ -34,4 +34,20 @@ UFO Sightings- Level 1: Automatic Table and Date Search
 
     Used a date form in our HTML document and wrote JavaScript code that will listen for events and search through 
     the date/time column to find rows that match user input.
+    
+----------------------
+    
+   Level 2: Multiple Search Categories 
 
+    In addition to completing all of Level 1 criteria, using multiple input tags and/or select dropdowns, 
+    we wrote JavaScript code so the user can to set multiple filters and search for UFO sightings using the 
+    following criteria based on the table columns:
+        date/time
+        city
+        state
+        country
+        shape
+
+---------------
+
+UFO Sightings.... The Truth is Out There! 
