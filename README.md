@@ -15,8 +15,8 @@ The planet Earth needs to know what we have found!
 -----------------
 Our Task
 
-    Within the repository for this Javascript challenge, two folders have been created to correspond to the challenges below: 
-    UFO-level-1 and UFO-level-2.
+    Within the repository for this Javascript challenge, two folders have been created to correspond 
+    to the challenges below: UFO-level-1 and UFO-level-2.
 
     The html files have been added to this folder as well as the static folder containing our javascript. 
     This will be the main script to run for analysis.
@@ -27,8 +27,8 @@ UFO Sightings- Level 1: Automatic Table and Date Search
 
     Created a basic HTML web page using the index.html file provided.
 
-    Using the UFO dataset provided in the form of an array of JavaScript objects, wrote code that appends a table 
-    to our web page and then adds new rows of data for each UFO sighting.
+    Using the UFO dataset provided in the form of an array of JavaScript objects, wrote code 
+    that appends a table to our web page and then adds new rows of data for each UFO sighting.
     
     There is a column for date/time, city, state, country, shape, and comment. 
 
@@ -39,9 +39,9 @@ UFO Sightings- Level 1: Automatic Table and Date Search
     
    Level 2: Multiple Search Categories 
 
-    In addition to completing all of Level 1 criteria, using multiple input tags and/or select dropdowns, 
-    we wrote JavaScript code so the user can to set multiple filters and search for UFO sightings using the 
-    following criteria based on the table columns:
+    In addition to completing all of Level 1 criteria, using multiple input tags and/or 
+    select dropdowns we wrote JavaScript code so the user can to set multiple filters and 
+    search for UFO sightings using the following criteria based on the table columns:
         date/time
         city
         state
