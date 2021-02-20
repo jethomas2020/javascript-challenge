@@ -2,7 +2,7 @@
 JavaScript and DOM Manipulation
 
 --------------------
-Background
+# Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
 
@@ -13,7 +13,7 @@ That's why we've been hired! ...  We need to write code that will create a table
 The planet Earth needs to know what we have found!
 
 -----------------
-Our Task
+# Our Task
 
     Within the repository for this Javascript challenge, two folders have been created to correspond 
     to the challenges below: UFO-level-1 and UFO-level-2.
@@ -23,7 +23,7 @@ Our Task
 
    
 -------------------
-UFO Sightings- Level 1: Automatic Table and Date Search 
+# UFO Sightings- Level 1: Automatic Table and Date Search 
 
     Created a basic HTML web page using the index.html file provided.
 
@@ -41,7 +41,7 @@ UFO Sightings- Level 1: Automatic Table and Date Search
     
 ----------------------
     
-   Level 2: Multiple Search Categories 
+   # Level 2: Multiple Search Categories 
 
     In addition to completing all of Level 1 criteria, using multiple input tags and/or 
     select dropdowns we wrote JavaScript code so the user can to set multiple filters and 
@@ -61,7 +61,7 @@ UFO Sightings- Level 1: Automatic Table and Date Search
 
 ---------------
 
-UFO Sightings.... The Truth is Out There!
+# UFO Sightings.... The Truth is Out There!
 
 
 
