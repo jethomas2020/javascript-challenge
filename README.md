@@ -36,7 +36,8 @@ UFO Sightings- Level 1: Automatic Table and Date Search
     search through the date/time column to find rows that match user input.
     
     The user will enter the date they are interested in to search for UFO sightings and click the 
-    "Filter Table" button, and any results will display. 
+    "Filter Table" button, and any results will display. By refreshing the page, the entire data is 
+    once again available. 
     
 ----------------------
     
